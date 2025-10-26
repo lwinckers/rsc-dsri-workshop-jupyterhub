@@ -29,8 +29,8 @@ hub:
         - admin
       allowed_users:
         - user1
-        - user 2
-        - user 3
+        - user2
+        - user3
     DummyAuthenticator:
       password: a-shared-secret-password
     JupyterHub:
